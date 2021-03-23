@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The charm repo was moved to: https://opendev.org/openstack/charm-manila-dashboard
+
 # Overview
 
 This subordinate charm provides the Manila Dashboard plugin for use with the OpenStack Dashboard.
